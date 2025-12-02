@@ -360,7 +360,7 @@ correct: "1",
 image: ''
 },
 60: {
-text: "Which city hosted the World Green Economy Summit 2024 with the theme 'Innovating for the Future'?",
+text: "Which city hosted the World Green Economy Summit 2025 with the theme 'Innovating for Impact: Accelerating the Future of the Green Economy'?",
 options: ["Dubai", "Riyadh", "Abu Dhabi", "Doha"],
 correct: "1",
 image: ''
