@@ -243,8 +243,8 @@ text: "The EFTA countries comprise four nations: Iceland, Liechtenstein, Norway,
 image: ""
 },
 60: {
-text: "The World Green Economy Summit 2024 was hosted in Dubai. The theme of the summit was 'Innovating for the Future' and it highlighted the global green transformation.",
-image: ""
+text: "The World Green Economy Summit (WGES) 2025 was held in Dubai. The theme was Innovating for Impact: Accelerating the Future of the Green Economy. City: Dubai, United Arab Emirates Key focus areas: The summit focused on areas like renewable energy, circular economies, climate finance, and sustainable technologies. ",
+  image: ""
 },
 61: {
 text: "India and China agreed to resume direct air services connecting designated points in both countries. This marks the restoration of direct flights after more than five years of suspension.",
